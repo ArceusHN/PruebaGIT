@@ -16,7 +16,7 @@
         <title>JSP Page</title>
     </head>
     <body>
-        <h1>La alcancia feliz GIT</h1>
+        <h1>La alcancia feliz GIT cambio 2</h1>
         
         <a href="EstadoCivilController?accion=listar">Listar</a>
 
